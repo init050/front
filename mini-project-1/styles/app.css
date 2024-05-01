@@ -54,7 +54,7 @@ input, button{
     padding: 50px 35px 35px 35px;
     border: 2px solid rgba(255,255,255,0.13);
     border-radius: 10px;
-    box-shadow: 0 0 40px rgba(0,0,0,0.5);
+        
     backdrop-filter: blur(10px);
 }
 
